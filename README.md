@@ -3,7 +3,7 @@ Clone Type-DOS
 
 
 <details open>
-    <summary><b>Resource Development</b> 11 tools</summary>
+    <summary><b>Resource Development</b> ?? tools</summary>
     <ul>
         <ul>
             <li><b><a href="#chimera">Chimera</a></b><i> PowerShell obfuscation</i></li>
@@ -12,7 +12,7 @@ Clone Type-DOS
 </details>
 
 <details open>
-    <summary><b>Reconnaissance</b> 20 tools</summary>
+    <summary><b>Reconnaissance</b> ?? tools</summary>
     <ul>
         <ul>
             <li><b><a href="#dismap">Dismap</a></b><i> Asset discovery/identification</i></li>
