@@ -54,3 +54,5 @@ dismap-0.3-windows-amd64.exe -h
 # Scan, Number of concurrent threads 1000
 ./dismap -i 192.168.1.1/24 -t 1000
 ```
+
+[![Debian-12-x-64-bit-2025-08-15-02-51-48.png](https://i.postimg.cc/26rtD8J7/Debian-12-x-64-bit-2025-08-15-02-51-48.png)](https://postimg.cc/GBgKPrb4)
