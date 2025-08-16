@@ -9,7 +9,7 @@ tilix -x bash -c "akane-exec nmap --help"
 tilix -x bash -c "cd /opt/chimera && akane-exec ./chimera.sh"
 ```
 ```
-sh -c [dnsdict6;sudo -s"
+sh -c "dnsdict6;sudo -s"
 ```
 ```
 sh -c "cd /pentest/enumeration/dns/dnsenum/ && ./dnsenum.pl ;sudo -s"
