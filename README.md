@@ -9,6 +9,9 @@ tilix -x bash -c "akane-exec nmap --help"
 tilix -x bash -c "cd /opt/chimera && akane-exec ./chimera.sh"
 ```
 ```
+tilix -x bash -c "cd /aluber/5piderx && ./5piderx  ; exec bash"
+```
+```
 tilix -x bash -c "cd /home/aluber/Documents/red/usr/local/bin/ && ./fbosint -h ; exec bash"
 ```
 ```
