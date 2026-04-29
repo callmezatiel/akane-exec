@@ -9,6 +9,9 @@ tilix -x bash -c "akane-exec nmap --help"
 tilix -x bash -c "cd /opt/chimera && akane-exec ./chimera.sh"
 ```
 ```
+tilix -x bash -c "cd /home/aluber/Documents/red/usr/local/bin/ && ./fbosint -h ; exec bash"
+```
+```
 sh -c "dnsdict6;sudo -s"
 ```
 ```
